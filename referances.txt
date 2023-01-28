@@ -1,0 +1,5 @@
+https://flask.palletsprojects.com/en/2.2.x/installation/
+ International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056
+https://xlrd.readthedocs.io/en/latest/
+https://pypi.org/project/fuzzywuzzy/
+https://www.researchgate.net/publication/320827237_USING_TKINTER_OF_PYTHON_TO_CREATE_GRAPHICAL_USER_INTERFACE_GUI_FOR_SCRIPTS_IN_LNLS
